@@ -1,4 +1,7 @@
 package com.example.feature.screen
 
-class CreateNewTaskScreen {
+import androidx.compose.runtime.Composable
+
+@Composable
+fun CreateNewTaskScreen() {
 }

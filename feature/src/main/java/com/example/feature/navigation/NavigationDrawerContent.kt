@@ -86,7 +86,7 @@ fun NavigationDrawerContent() {
             },
             selected = false,
             onClick = {
-
+//TODO Log out
             }
         )
     }
